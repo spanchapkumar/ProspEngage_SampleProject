@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "IhGMPu0wO41RcBtv+TuC0Q1GOSvtFNZUb/VsxGyH7PE=",
+  "Source": "ProspEngage.Api",
+  "BasePath": "_content/ProspEngage.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ProspEngage Project\\Git\\ProspEngage\\ProspEngage.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C73847-A096-4E06-AA32-E5B352DD8227}|ProspEngage.Api\\ProspEngage.Api.csproj|c:\\prospengage project\\git\\prospengage\\prospengage.api\\prospengage.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C73847-A096-4E06-AA32-E5B352DD8227}|ProspEngage.Api\\ProspEngage.Api.csproj|solutionrelative:prospengage.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C73847-A096-4E06-AA32-E5B352DD8227}|ProspEngage.Api\\ProspEngage.Api.csproj|c:\\prospengage project\\git\\prospengage\\prospengage.api\\prospengage.api\\controllers\\usersmanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C73847-A096-4E06-AA32-E5B352DD8227}|ProspEngage.Api\\ProspEngage.Api.csproj|solutionrelative:prospengage.api\\controllers\\usersmanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C73847-A096-4E06-AA32-E5B352DD8227}|ProspEngage.Api\\ProspEngage.Api.csproj|c:\\prospengage project\\git\\prospengage\\prospengage.api\\prospengage.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E6C73847-A096-4E06-AA32-E5B352DD8227}|ProspEngage.Api\\ProspEngage.Api.csproj|solutionrelative:prospengage.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C73847-A096-4E06-AA32-E5B352DD8227}|ProspEngage.Api\\ProspEngage.Api.csproj|c:\\prospengage project\\git\\prospengage\\prospengage.api\\prospengage.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E6C73847-A096-4E06-AA32-E5B352DD8227}|ProspEngage.Api\\ProspEngage.Api.csproj|solutionrelative:prospengage.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FACF04C-D8BA-4DD0-A0F1-C4EB998C4656}|ProspEngage.DataAccess\\ProspEngage.DataAccess.csproj|c:\\prospengage project\\git\\prospengage\\prospengage.api\\prospengage.dataaccess\\usermanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FACF04C-D8BA-4DD0-A0F1-C4EB998C4656}|ProspEngage.DataAccess\\ProspEngage.DataAccess.csproj|solutionrelative:prospengage.dataaccess\\usermanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FACF04C-D8BA-4DD0-A0F1-C4EB998C4656}|ProspEngage.DataAccess\\ProspEngage.DataAccess.csproj|c:\\prospengage project\\git\\prospengage\\prospengage.api\\prospengage.dataaccess\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FACF04C-D8BA-4DD0-A0F1-C4EB998C4656}|ProspEngage.DataAccess\\ProspEngage.DataAccess.csproj|solutionrelative:prospengage.dataaccess\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47A1A27-19DF-420B-9122-827F3FF91860}|ProspEngage.Repository\\ProspEngage.Repository.csproj|c:\\prospengage project\\git\\prospengage\\prospengage.api\\prospengage.repository\\usermanagementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47A1A27-19DF-420B-9122-827F3FF91860}|ProspEngage.Repository\\ProspEngage.Repository.csproj|solutionrelative:prospengage.repository\\usermanagementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D522864-F16E-4C58-944A-26A8BAA3A83A}|ProspEngage.Models\\ProspEngage.Models.csproj|c:\\prospengage project\\git\\prospengage\\prospengage.api\\prospengage.models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D522864-F16E-4C58-944A-26A8BAA3A83A}|ProspEngage.Models\\ProspEngage.Models.csproj|solutionrelative:prospengage.models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D522864-F16E-4C58-944A-26A8BAA3A83A}|ProspEngage.Models\\ProspEngage.Models.csproj|c:\\prospengage project\\git\\prospengage\\prospengage.api\\prospengage.models\\profilemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D522864-F16E-4C58-944A-26A8BAA3A83A}|ProspEngage.Models\\ProspEngage.Models.csproj|solutionrelative:prospengage.models\\profilemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D522864-F16E-4C58-944A-26A8BAA3A83A}|ProspEngage.Models\\ProspEngage.Models.csproj|c:\\prospengage project\\git\\prospengage\\prospengage.api\\prospengage.models\\rolemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D522864-F16E-4C58-944A-26A8BAA3A83A}|ProspEngage.Models\\ProspEngage.Models.csproj|solutionrelative:prospengage.models\\rolemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersManagementController.cs",
+              "DocumentMoniker": "C:\\ProspEngage Project\\Git\\ProspEngage\\ProspEngage.Api\\ProspEngage.Api\\Controllers\\UsersManagementController.cs",
+              "RelativeDocumentMoniker": "ProspEngage.Api\\Controllers\\UsersManagementController.cs",
+              "ToolTip": "C:\\ProspEngage Project\\Git\\ProspEngage\\ProspEngage.Api\\ProspEngage.Api\\Controllers\\UsersManagementController.cs",
+              "RelativeToolTip": "ProspEngage.Api\\Controllers\\UsersManagementController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAtwB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T03:54:09.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "C:\\ProspEngage Project\\Git\\ProspEngage\\ProspEngage.Api\\ProspEngage.DataAccess\\DataAccess.cs",
+              "RelativeDocumentMoniker": "ProspEngage.DataAccess\\DataAccess.cs",
+              "ToolTip": "C:\\ProspEngage Project\\Git\\ProspEngage\\ProspEngage.Api\\ProspEngage.DataAccess\\DataAccess.cs",
+              "RelativeToolTip": "ProspEngage.DataAccess\\DataAccess.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T08:51:24.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\ProspEngage Project\\Git\\ProspEngage\\ProspEngage.Api\\ProspEngage.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ProspEngage.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\ProspEngage Project\\Git\\ProspEngage\\ProspEngage.Api\\ProspEngage.Api\\appsettings.Development.json",
+              "RelativeToolTip": "ProspEngage.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-26T04:05:25.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\ProspEngage Project\\Git\\ProspEngage\\ProspEngage.Api\\ProspEngage.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "ProspEngage.Api\\appsettings.json",
+              "ToolTip": "C:\\ProspEngage Project\\Git\\ProspEngage\\ProspEngage.Api\\ProspEngage.Api\\appsettings.json",
+              "RelativeToolTip": "ProspEngage.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-26T04:05:44.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProspEngage Project\\Git\\ProspEngage\\ProspEngage.Api\\ProspEngage.Api\\Program.cs",
+              "RelativeDocumentMoniker": "ProspEngage.Api\\Program.cs",
+              "ToolTip": "C:\\ProspEngage Project\\Git\\ProspEngage\\ProspEngage.Api\\ProspEngage.Api\\Program.cs",
+              "RelativeToolTip": "ProspEngage.Api\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T04:32:05.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserManagementDbContext.cs",
+              "DocumentMoniker": "C:\\ProspEngage Project\\Git\\ProspEngage\\ProspEngage.Api\\ProspEngage.DataAccess\\UserManagementDbContext.cs",
+              "RelativeDocumentMoniker": "ProspEngage.DataAccess\\UserManagementDbContext.cs",
+              "ToolTip": "C:\\ProspEngage Project\\Git\\ProspEngage\\ProspEngage.Api\\ProspEngage.DataAccess\\UserManagementDbContext.cs",
+              "RelativeToolTip": "ProspEngage.DataAccess\\UserManagementDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAhwBkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T03:57:11.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserManagementRepository.cs",
+              "DocumentMoniker": "C:\\ProspEngage Project\\Git\\ProspEngage\\ProspEngage.Api\\ProspEngage.Repository\\UserManagementRepository.cs",
+              "RelativeDocumentMoniker": "ProspEngage.Repository\\UserManagementRepository.cs",
+              "ToolTip": "C:\\ProspEngage Project\\Git\\ProspEngage\\ProspEngage.Api\\ProspEngage.Repository\\UserManagementRepository.cs",
+              "RelativeToolTip": "ProspEngage.Repository\\UserManagementRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAhwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T04:44:58.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\ProspEngage Project\\Git\\ProspEngage\\ProspEngage.Api\\ProspEngage.Models\\User.cs",
+              "RelativeDocumentMoniker": "ProspEngage.Models\\User.cs",
+              "ToolTip": "C:\\ProspEngage Project\\Git\\ProspEngage\\ProspEngage.Api\\ProspEngage.Models\\User.cs",
+              "RelativeToolTip": "ProspEngage.Models\\User.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T04:02:02.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RoleMaster.cs",
+              "DocumentMoniker": "C:\\ProspEngage Project\\Git\\ProspEngage\\ProspEngage.Api\\ProspEngage.Models\\RoleMaster.cs",
+              "RelativeDocumentMoniker": "ProspEngage.Models\\RoleMaster.cs",
+              "ToolTip": "C:\\ProspEngage Project\\Git\\ProspEngage\\ProspEngage.Api\\ProspEngage.Models\\RoleMaster.cs",
+              "RelativeToolTip": "ProspEngage.Models\\RoleMaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T04:01:54.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProfileMaster.cs",
+              "DocumentMoniker": "C:\\ProspEngage Project\\Git\\ProspEngage\\ProspEngage.Api\\ProspEngage.Models\\ProfileMaster.cs",
+              "RelativeDocumentMoniker": "ProspEngage.Models\\ProfileMaster.cs",
+              "ToolTip": "C:\\ProspEngage Project\\Git\\ProspEngage\\ProspEngage.Api\\ProspEngage.Models\\ProfileMaster.cs",
+              "RelativeToolTip": "ProspEngage.Models\\ProfileMaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T04:02:08.858Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
